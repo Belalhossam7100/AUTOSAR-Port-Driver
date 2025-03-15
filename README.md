@@ -1,0 +1,1 @@
+This project implements the Port drivers following the AUTOSAR layered architecture on TM4C microcontrollers. The primary objective is to demonstrate the complete implementation of a layered architecture model using AUTOSAR standards.
